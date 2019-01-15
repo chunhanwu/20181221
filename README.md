@@ -1,4 +1,4 @@
-# 20181221-Javascript 同一tr裡多個td排序
+# Javascript 同一tr裡多個td排序
 <strong>初階概念<strong>
 ```
 <!DOCTYPE html>
